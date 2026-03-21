@@ -1,0 +1,94 @@
+{
+  "splash": {
+    "title": "Building an Empire",
+    "subtitle": "Roman Infrastructure Across the Mediterranean",
+    "curatorial": [
+      "This interactive map presents a central argument: that Greco-Roman infrastructure was not merely a practical response to engineering challenges, but a deliberate instrument of imperial power. While scholars such as Laurence have emphasized the economic motivations behind Roman road-building, the chronological evidence suggests that military logistics consistently preceded commercial development.[1] By visualizing the geographic and chronological spread of roads, aqueducts, harbors, fortifications, and public architecture across the Mediterranean, we reveal a pattern that lectures alone cannot fully convey: the physical infrastructure of empire expanded in lockstep with military conquest, and its presence reshaped the political and social landscape of every territory it touched.",
+      "Two case studies illustrate this argument with particular clarity. The **Via Appia**, begun in 312 BCE by censor Appius Claudius Caecus during the Second Samnite War, was constructed on a scale that \"consumed the entire revenue of the Roman state\" to serve both military and political ends.[1] As Quilici demonstrates, its surveyors used Colle Pardo as a vantage point to establish a 55-mile straight line from Rome to Terracina, cutting through marshes and mountains that earlier engineers would have avoided.[2] Its extension from Capua to Brindisi by 240 BCE traced the exact trajectory of Roman military expansion southward, passing through colonies founded at Sinuessa (296 BCE), Minturnae (295 BCE), and Venusia (291 BCE), until the road reached the port of Brundisium as a bridgehead to the Orient.[5] The road did not follow the empire; the empire followed the road.",
+      "Similarly, Herod the Great's **harbor at Caesarea Maritima** (ca. 22-15 BCE) demonstrates how hydraulic concrete technology was exported to client kingdoms as a tool of political integration. Josephus records that the coastline between Dora and Joppa \"had no good haven\" due to impetuous south winds.[4] Herod lowered \"vast stones of above fifty foot in length\" into twenty fathoms of water to create breakwaters stretching 300 and 800 meters respectively.[2] Scientific analysis confirmed that the crucial ingredient, pozzolana, was imported from the Bay of Naples.[3] The technology was Roman, the labor was local, and the result bound Judaea to Rome's maritime trade network.",
+      "Across 136 monuments spanning roughly two millennia, this map invites users to watch these patterns unfold in real time. The timeline extends to 1453 CE, when the Theodosian walls of Constantinople, described as \"the most powerful urban fortifications of antiquity,\" finally fell not to structural failure but to human error: an open postern gate.[2] That even after a millennium of use, these ancient defenses never structurally failed is perhaps the most powerful testament to the enduring legacy of Greco-Roman engineering."
+    ],
+    "curatorial_endnotes": [
+      "[1] Laurence, <em>Roads of Roman Italy</em>, 1999.",
+      "[2] Oleson, ed., <em>Oxford Handbook</em>, 2009 (chapters by Quilici, Blackman, and Davies).",
+      "[3] Branton and Oleson, \"Technology of King Herod's Harbour,\" 1992.",
+      "[4] Josephus, <em>Jewish Antiquities</em> XV.",
+      "[5] Tocco Sciarelli, \"The Via Appia,\" 2018."
+    ],
+    "authors": "Duke Smith & Jeremy Cogswell",
+    "course": "CLAS 52: Greco-Roman Technologies | Prof. Sarah Beckmann | UCLA Winter 2026"
+  },
+  "contributions": {
+    "duke": {
+      "name": "Duke Smith",
+      "text": "I built the core map infrastructure: setting up the interactive Leaflet.js map, designing the timeline slider that filters monuments by construction date, and implementing the point markers and polyline road overlays. I developed the left sidebar detail panel that displays monument information on click, including construction dates, destruction dates, and historical significance. I also led the data research effort, compiling and verifying coordinates, dates, and descriptions for many of the 136 monuments, cross-referencing each against course lecture materials and readings from the Oxford Handbook. Researching the Via Appia's extension chronology was particularly rewarding, as the Tocco Sciarelli article provided colony foundation dates that connected directly to military campaigns. On the interpretive side, I co-wrote the curatorial statement and developed the argument framing infrastructure as a tool of imperial control, with the Via Appia and Caesarea Maritima as case studies. What surprised me most was how clearly the chronological patterns emerged once the data was mapped. Plotting the Via Appia's extensions alongside military victories made the argument almost self-evident in a way that reading about it in isolation never did. This project changed how I think about the relationship between physical space and political power in the ancient world."
+    },
+    "jeremy": {
+      "name": "Jeremy Cogswell",
+      "text": "I focused on the interactive features and visual design of the site. I implemented the marker clustering system with its on/off toggle, built the right-side monument list panel with search and sort functionality (by date, name, and type), and developed the legend filtering system that lets users show or hide categories by clicking, with live counts per time period. I designed the splash page layout, the How to Use guide modal, the color scheme, and the overall visual identity of the project. Choosing a dark theme with gold accents was a deliberate design decision to evoke the visual language of archaeological documentation. I also contributed significantly to data entry and verification of monument descriptions, and co-wrote the curatorial statement, collaborating on the interpretive framing of infrastructure as imperial expansion. Working on this project gave me a much deeper appreciation for the sheer geographic scale of Roman engineering. Seeing all 136 monuments appear on a single map as you drag the timeline forward creates an experience that no textbook or lecture can replicate. The clustering feature was particularly challenging to implement well, but the result lets users see both the big picture and the granular detail, which mirrors how the course itself moved between broad themes and specific case studies."
+    }
+  },
+  "bibliography": [
+    "Beckmann, Sarah. CLAS 52: Greco-Roman Technologies. UCLA, Winter 2026. Lectures.",
+    "Branton, G., and J. P. Oleson. \"The Technology of King Herod's Harbour.\" In <em>Caesarea Papers: Straton's Tower, Herod's Harbour, and Roman and Byzantine Caesarea</em>, edited by R. L. Vann, 49-67. Journal of Roman Archaeology Suppl. 5. Ann Arbor, MI: JRA, 1992.",
+    "Josephus, Flavius. <em>The Antiquities of the Jews</em>, Book XV. Translated by William Whiston. University of Chicago Penelope Project. https://penelope.uchicago.edu/josephus/.",
+    "Laurence, Ray. <em>The Roads of Roman Italy: Mobility and Cultural Change</em>. New York: Routledge, 1999.",
+    "Oleson, John Peter, ed. <em>The Oxford Handbook of Engineering and Technology in the Classical World</em>. Oxford: Oxford University Press, 2009.",
+    "Tocco Sciarelli, Giuliana. \"The Via Appia: A Methodology of Intervention for a Protection and Enhancement Project.\" In <em>CNR-CACH</em>, Vol. 3, 111-119. Salerno: Ministry of Cultural Heritage and Activities (MiBACT), 2018."
+  ],
+  "howto": [
+    {
+      "icon": "\u2194",
+      "title": "Timeline",
+      "text": "Drag the slider at the bottom to travel through time. Only monuments built by the selected year will appear on the map."
+    },
+    {
+      "icon": "\ud83d\udd0e",
+      "title": "Click Markers",
+      "text": "Click any colored dot or road line to open the detail panel on the left. The Via Appia and Caesarea Maritima feature extended case study analyses you can scroll through."
+    },
+    {
+      "icon": "\u2630",
+      "title": "Monument List",
+      "text": "Click \"List\" in the top right to browse, search, and sort all 136 monuments. Click any entry to fly to it on the map."
+    },
+    {
+      "icon": "\ud83d\uddbc",
+      "title": "Images",
+      "text": "27 key monuments include photographs. Click any image in the detail panel to open an enlarged view. Use the \"Has Image\" sort in the List panel to find monuments with photos."
+    },
+    {
+      "icon": "\ud83c\udf88",
+      "title": "Legend & Filters",
+      "text": "Click the Legend in the bottom right to expand it. Click any category to toggle its visibility. Each shows a count of visible monuments."
+    }
+  ],
+  "caseStudies": {
+    "via-appia": [
+      "The Via Appia was initiated in 312 BCE by the censor Appius Claudius Caecus during the Second Samnite War.[1][2] The primary strategic goal of the original 132-Roman-mile (196 km) route was to bypass hostile Latin allies and facilitate the rapid deployment of Roman troops directly to Capua in Campania. Beyond its military function, the road was a potent political tool; it was constructed on a massive scale that \"consumed the entire revenue of the Roman state\" to appeal to the plebeians and non-elite citizens of Campania, functioning as a \"deathless monument\" to Appius Claudius.[1]",
+      "The Via Appia embodied a \"rational design\" that ignored natural obstacles in favor of the shortest, most direct route possible.[2] Roman surveyors achieved a spectacular 90 km (55-mile) straight line from Rome to Terracina by taking back-sights from the high vantage point of Colle Pardo near Ariccia. From there, they established a 23 km sightline north aiming at the Temple of Diana in Rome, and a 61 km sightline south targeting the seaward cliff of Leano; these two immense sightlines differed in orientation by only 5 degrees.[2] Roman engineers also built massive viaducts along the route, such as the one at Ariccia: 230 meters long and 13 meters high, built of volcanic tuff blocks retaining a concrete core.[2]",
+      "Despite its modern reputation as a paved stone highway, the Via Appia was originally surfaced with compacted gravel.[2] Relying on the historian Livy, we know that in 312 BCE Appius Claudius merely \"protected the road\" (viam munivit), a term implying something less than stone paving. Livy (10.23.12) records that the first mile was not paved \"with dressed stone blocks\" (saxo quadrato) until 296 BCE, and the next 12 miles received basalt paving in 293 BCE.[2] Archaeological excavations of the original gravel sections reveal a double, stepped embankment 6.6 meters wide, framed by rectangular retaining blocks for a total width of 10.5 meters.",
+      "Through the Pontine Marshes, the road's substructures doubled as an embankment for a drainage and transport canal. For nearly 20 miles, from Tre Ponti to Amaseno, travelers could move alongside the road by boat. The poet Horace famously recorded taking a passenger boat down this canal in the late 1st century BCE.[2]",
+      "The gradual lengthening of the Via Appia mirrors the timeline of Roman military expansion and colonial settlement.[5] Following victories against Pyrrhus, the road was extended to the colony of Beneventum in 268 BCE. Other strategic extensions included colonies at Sinuessa (296 BCE), Minturnae (295 BCE), and Venusia (291 BCE). The road reached Tarentum after its subjugation in 272 BCE, and finally Brundisium, where a colony was established between 246 and 243 BCE as a bridgehead to the Orient. By this point the \"regina viarum\" (queen of roads) had reached a total length of 364 Roman miles.[5]",
+      "The monumental investments required to cut embankments, bridge valleys, and pave surfaces in hard basalt cannot be explained by economics alone. As Laurence argues, these roads were \"key features of Roman monumentalism\" designed to display Rome's power, mobilize massive resources, and culturally unify Italy under Roman hegemony. While Finley argued that land transport was prohibitively expensive, Laurence contests this by analyzing Cato the Elder's records: although a 75-mile overland journey was three times longer than a 25-mile alternative, the total cost difference was only 15 percent, proving land transport was economically viable.[1]",
+      "Because the Via Appia generated urban settlements and often functioned as the decumanus maximus (main street) for colonial towns, it deeply characterized the landscapes of Lazio, Campania, Basilicata, and Puglia.[5] The Italian Ministry of Cultural Heritage has created a comprehensive database registering 32 items of evidence across these regions, preparing the documentation required to nominate the Via Appia for the UNESCO World Heritage List.[5]"
+    ],
+    "caesarea-maritima": [
+      "Built between 22 and 15 BCE, the harbor of Caesarea Maritima, named Sebastos (the Greek equivalent of \"Augustus\"), was driven by strategic economic and political goals. Because Rome had reached a stalemate with the Parthian Empire over the northern silk routes, Herod constructed the harbor to capture eastern Mediterranean trade flowing via the Red Sea and overland through Arabia.[6]",
+      "Before Herod's monumental project, the earliest known major application of hydraulic concrete in a maritime structure occurred at the harbor of Cosa, a Roman colony in Etruria, where engineers built five concrete pilae (piers) on an earlier breakwater, recently dated to the mid-first century BCE.[2] This precedent set the stage for the massive scale of concrete engineering deployed at Caesarea a few decades later.",
+      "The construction relied on Roman hydraulic concrete (opus caementicium). Scientific analysis proved that the crucial ingredient, volcanic pozzolana, was deliberately imported from the Bay of Naples.[3] Engineers utilized \"single-mission barges\" as timber formwork, built with the same care as actual seagoing ships by skilled shipwrights; these were towed into position and intentionally sunk by filling them with hydraulic concrete.[2]",
+      "The resulting breakwaters were massive: the north breakwater extended 300 meters and the south breakwater 800 meters, \"probably occupied by quays along their entire interior length\" for berthing and cargo.[2]",
+      "In Jewish Antiquities Book XV, Josephus records that the coastline between Dora and Joppa previously had no suitable harbor due to dangerous south winds that forced merchants to ride at anchor in stormy seas. To solve this, Herod sank enormous foundation stones into twenty fathoms of water to create the primary mole, which was 200 feet wide. The seaward half, called the Procymatia (\"first breaker of the waves\"), absorbed the ocean's energy, while the inner half supported a stone wall with defensive towers, the greatest named Drusus. The harbor entrance faced north, toward calmer winds.[4]",
+      "Despite the extraordinary engineering, the harbor suffered catastrophic structural failure. Archaeological evidence reveals that the outer breakwater sank 5 to 6 meters below its original level, attributed either to geological fault shifting or to liquefaction of the sand beneath the concrete.[2] Core samples analyzed in 2005 indicate some inferior concrete may have compromised the breakwaters before a tsunami struck in the 1st or 2nd century CE. Battered by constant waves, the harbor fell into complete disuse by the 6th century.[6]",
+      "Josephus remarks that the site \"was not suitable to such noble structures, but was to be brought to perfection by materials from other places, and at very great expences.\" Importing Roman technology and vast quantities of Italian pozzolana represented a strategic victory not only for Herod but for the Empire. The imposing edifices and the adjoining temple to Caesar and Rome ensured that Roman power would have impressed all who sailed into the port.[4]"
+    ],
+    "caseStudy_endnotes": [
+      "[1] Laurence, <em>Roads of Roman Italy</em>, 1999.",
+      "[2] Oleson, ed., <em>Oxford Handbook</em>, 2009.",
+      "[3] Branton and Oleson, \"Technology of King Herod's Harbour,\" 1992.",
+      "[4] Josephus, <em>Jewish Antiquities</em> XV.",
+      "[5] Tocco Sciarelli, \"The Via Appia,\" 2018.",
+      "[6] Beckmann, CLAS 52 Lectures, UCLA Winter 2026."
+    ]
+  }
+}

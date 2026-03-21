@@ -1,0 +1,2153 @@
+[
+  {
+    "id": "via-appia",
+    "name": "Via Appia",
+    "type": "line",
+    "category": "road",
+    "date": -312,
+    "dateDisplay": "312 BCE",
+    "location": "Rome to Brindisi, Italy",
+    "significance": "Rome's first major military road, built by censor Appius Claudius during the Second Samnite War. Ignored natural terrain to assert control, connecting Rome to Capua and later extended to Brindisium.",
+    "coordinates": [
+      [
+        41.8789,
+        12.5115
+      ],
+      [
+        41.72,
+        12.67
+      ],
+      [
+        41.52,
+        12.77
+      ],
+      [
+        41.34,
+        13.01
+      ],
+      [
+        41.22,
+        13.25
+      ],
+      [
+        41.26,
+        13.61
+      ],
+      [
+        41.21,
+        13.75
+      ],
+      [
+        41.13,
+        13.83
+      ],
+      [
+        41.08,
+        14.02
+      ],
+      [
+        41.07,
+        14.25
+      ],
+      [
+        41.13,
+        14.78
+      ],
+      [
+        40.96,
+        15.53
+      ],
+      [
+        40.65,
+        15.85
+      ],
+      [
+        40.51,
+        16.52
+      ],
+      [
+        40.48,
+        17.23
+      ],
+      [
+        40.6426,
+        17.9424
+      ]
+    ],
+    "image": "images/via-appia.png",
+    "imageAttribution": "Franz Ludwig Catel / Public domain"
+  },
+  {
+    "id": "via-flaminia",
+    "name": "Via Flaminia",
+    "type": "line",
+    "category": "road",
+    "date": -220,
+    "dateDisplay": "220-219 BCE",
+    "location": "Rome to Rimini, Italy",
+    "significance": "Primary artery connecting Rome to northern Italy, built by censor Gaius Flaminius. Critical for military movement into the Po Valley.",
+    "coordinates": [
+      [
+        41.8989,
+        12.4731
+      ],
+      [
+        42.15,
+        12.51
+      ],
+      [
+        42.34,
+        12.48
+      ],
+      [
+        42.56,
+        12.64
+      ],
+      [
+        42.76,
+        12.83
+      ],
+      [
+        43.16,
+        12.91
+      ],
+      [
+        43.38,
+        12.88
+      ],
+      [
+        43.64,
+        12.71
+      ],
+      [
+        43.75,
+        13.02
+      ],
+      [
+        43.84,
+        12.96
+      ],
+      [
+        44.0594,
+        12.5688
+      ]
+    ]
+  },
+  {
+    "id": "via-egnatia",
+    "name": "Via Egnatia",
+    "type": "line",
+    "category": "road",
+    "date": -146,
+    "dateDisplay": "146 BCE",
+    "location": "Balkans (Albania to Turkey)",
+    "significance": "Massive trans-Balkan highway connecting the Adriatic to the East. Built after Roman conquest of Macedonia, it linked Dyrrachium to Byzantium.",
+    "coordinates": [
+      [
+        41.3275,
+        19.8187
+      ],
+      [
+        40.9482,
+        20.3296
+      ],
+      [
+        40.6401,
+        20.8528
+      ],
+      [
+        40.5169,
+        21.0949
+      ],
+      [
+        40.636,
+        22.357
+      ],
+      [
+        40.6401,
+        22.9444
+      ],
+      [
+        40.8472,
+        24.0125
+      ],
+      [
+        41.0082,
+        24.7847
+      ],
+      [
+        41.0129,
+        25.876
+      ],
+      [
+        41.0069,
+        28.9784
+      ]
+    ]
+  },
+  {
+    "id": "via-domitia",
+    "name": "Via Domitia",
+    "type": "line",
+    "category": "road",
+    "date": -116,
+    "dateDisplay": "116 BCE",
+    "location": "Gaul (Southern France)",
+    "significance": "Built to support Roman military activity in Spain. First Roman road in Gaul, connecting the Alps to the Pyrenees along the Mediterranean coast.",
+    "coordinates": [
+      [
+        45.1372,
+        6.7749
+      ],
+      [
+        44.92,
+        6.63
+      ],
+      [
+        44.56,
+        6.08
+      ],
+      [
+        44.08,
+        5.05
+      ],
+      [
+        43.84,
+        4.36
+      ],
+      [
+        43.61,
+        3.88
+      ],
+      [
+        43.34,
+        3.22
+      ],
+      [
+        43.21,
+        2.35
+      ],
+      [
+        42.7,
+        2.89
+      ],
+      [
+        42.4527,
+        2.1624
+      ]
+    ]
+  },
+  {
+    "id": "via-aemilia",
+    "name": "Via Aemilia",
+    "type": "line",
+    "category": "road",
+    "date": -187,
+    "dateDisplay": "187 BCE",
+    "location": "Rimini to Piacenza, Italy",
+    "significance": "Major road running through the Po Valley. Became so synonymous with its region that the area is still called Emilia-Romagna today.",
+    "coordinates": [
+      [
+        44.0594,
+        12.5688
+      ],
+      [
+        44.14,
+        12.24
+      ],
+      [
+        44.22,
+        12.04
+      ],
+      [
+        44.35,
+        11.72
+      ],
+      [
+        44.42,
+        11.38
+      ],
+      [
+        44.49,
+        11.34
+      ],
+      [
+        44.65,
+        10.93
+      ],
+      [
+        44.8,
+        10.33
+      ],
+      [
+        44.86,
+        10.04
+      ],
+      [
+        45.05,
+        9.69
+      ]
+    ]
+  },
+  {
+    "id": "persian-royal-road",
+    "name": "Persian Royal Road",
+    "type": "line",
+    "category": "road",
+    "date": -500,
+    "dateDisplay": "5th c. BCE",
+    "location": "Susa to Sardis (Persian Empire)",
+    "significance": "An unpaved 1600-mile administrative highway built for swift courier movement. A precursor to Roman road engineering, enabling centralized control of a vast empire.",
+    "coordinates": [
+      [
+        32.1877,
+        48.2539
+      ],
+      [
+        33.31,
+        44.37
+      ],
+      [
+        34.56,
+        43.68
+      ],
+      [
+        35.47,
+        43.27
+      ],
+      [
+        36.36,
+        43.15
+      ],
+      [
+        37.07,
+        41.22
+      ],
+      [
+        37.77,
+        39.6
+      ],
+      [
+        38.73,
+        36.55
+      ],
+      [
+        39.77,
+        32.87
+      ],
+      [
+        38.62,
+        29.95
+      ],
+      [
+        38.4737,
+        28.0396
+      ]
+    ]
+  },
+  {
+    "id": "trajans-bridge",
+    "name": "Trajan's Bridge over the Danube",
+    "type": "point",
+    "category": "bridge",
+    "date": 103,
+    "dateDisplay": "103-105 CE",
+    "lat": 44.6258,
+    "lng": 22.6602,
+    "location": "Iron Gates, Serbia/Romania",
+    "significance": "Monumental bridge with stone piers and wooden superstructure designed by Apollodorus of Damascus. Paved the way for the conquest of Dacia. Depicted on the Column of Trajan.",
+    "image": "images/trajans-bridge.png",
+    "imageAttribution": "Rapsak / CC BY-SA 2.0"
+  },
+  {
+    "id": "pons-aemilius",
+    "name": "Pons Aemilius",
+    "type": "point",
+    "category": "bridge",
+    "date": -179,
+    "dateEnd": -142,
+    "destroyedNote": "Partially collapsed in later centuries, earning the name 'Ponte Rotto' (Broken Bridge); one arch survives",
+    "dateDisplay": "179 BCE (wood), 142 BCE (stone)",
+    "lat": 41.8882,
+    "lng": 12.4789,
+    "location": "Rome, Italy",
+    "significance": "Rome's earliest major stone-arch bridge over the Tiber. Originally wooden, rebuilt in stone. Partially collapsed in later centuries, earning the name 'Ponte Rotto' (Broken Bridge)."
+  },
+  {
+    "id": "ponte-milvio",
+    "name": "Ponte Milvio (Milvian Bridge)",
+    "type": "point",
+    "category": "bridge",
+    "date": -109,
+    "dateDisplay": "109 BCE",
+    "lat": 41.9366,
+    "lng": 12.4672,
+    "location": "Rome, Italy",
+    "significance": "A 150m long stone bridge carrying the Via Flaminia over the Tiber. Later famous as the site of the Battle of the Milvian Bridge (312 CE) between Constantine and Maxentius.",
+    "image": "images/ponte-milvio.png",
+    "imageAttribution": "Livioandronico2013 / CC BY-SA 4.0"
+  },
+  {
+    "id": "rhine-bridge-cologne",
+    "name": "Rhine Bridge at Cologne",
+    "type": "point",
+    "category": "bridge",
+    "date": 50,
+    "dateDisplay": "1st c. CE",
+    "lat": 50.9375,
+    "lng": 6.9603,
+    "location": "Cologne, Germany",
+    "significance": "A massive 420m timber truss bridge built on 19 stone piers spanning the Rhine. Demonstrated Roman engineering capability at the empire's northern frontier."
+  },
+  {
+    "id": "eupalinus-tunnel",
+    "name": "Eupalinus Tunnel",
+    "type": "point",
+    "category": "tunnel",
+    "date": -530,
+    "dateDisplay": "2nd half 6th c. BCE",
+    "lat": 37.6926,
+    "lng": 26.9384,
+    "location": "Samos, Greece",
+    "significance": "A 1,036m counter-excavation water supply tunnel built under the tyrant Polycrates. The first tunnel planned as a distinct engineering structure, dug from both ends simultaneously.",
+    "image": "images/eupalinus-tunnel.png",
+    "imageAttribution": "GrigorisKoulouriotis / CC BY-SA 4.0"
+  },
+  {
+    "id": "hezekiah-tunnel",
+    "name": "Hezekiah's Tunnel",
+    "type": "point",
+    "category": "tunnel",
+    "date": -701,
+    "dateDisplay": "705-701 BCE",
+    "lat": 31.772,
+    "lng": 35.2354,
+    "location": "Jerusalem, Israel",
+    "significance": "Water supply tunnel built by King Hezekiah using counter-excavation to protect Jerusalem's water source during the Assyrian siege. One of the earliest known tunneling projects."
+  },
+  {
+    "id": "claudius-tunnel",
+    "name": "Claudius Tunnel (Fucine Lake)",
+    "type": "point",
+    "category": "tunnel",
+    "date": 41,
+    "dateEnd": 52,
+    "dateDisplay": "41-52 CE",
+    "lat": 42.0044,
+    "lng": 13.5252,
+    "location": "Avezzano, Italy",
+    "significance": "An epic 5.6 km tunnel built by 30,000 men over 11 years to drain the Fucine Lake. One of the largest engineering projects of the Roman Empire."
+  },
+  {
+    "id": "cocceius-tunnel",
+    "name": "Cocceius Tunnel",
+    "type": "point",
+    "category": "tunnel",
+    "date": -37,
+    "dateDisplay": "1st c. BCE",
+    "lat": 40.8399,
+    "lng": 14.0538,
+    "location": "Cumae, Italy",
+    "significance": "A massive counter-excavation road tunnel built by L. Cocceius Auctus for Agrippa. Connected Cumae to Lake Avernus through the mountain."
+  },
+  {
+    "id": "titus-tunnel",
+    "name": "Titus Tunnel",
+    "type": "point",
+    "category": "tunnel",
+    "date": 79,
+    "dateDisplay": "ca. 79 CE",
+    "lat": 36.1172,
+    "lng": 35.937,
+    "location": "Seleucia Pieria (Cevlik), Turkey",
+    "significance": "River diversion tunnel built by Vespasian and Titus for flood control near the harbor of Seleucia Pieria. A monumental rock-cut channel."
+  },
+  {
+    "id": "nonius-datus-tunnel",
+    "name": "Nonius Datus Tunnel",
+    "type": "point",
+    "category": "tunnel",
+    "date": 147,
+    "dateDisplay": "147-151 CE",
+    "lat": 36.7538,
+    "lng": 5.0843,
+    "location": "Saldae (Bejaia), Algeria",
+    "significance": "A 428-meter water supply tunnel for the city of Saldae (modern Bejaia, Algeria), built 147-151 CE using counter-excavation. Famous for its engineer Nonius Datus, whose tombstone inscription details how the two digging teams missed each other underground. Datus personally returned to correct the errors and join the tunnels (Grewe, in Oleson 2009)."
+  },
+  {
+    "id": "pont-du-gard",
+    "name": "Pont-du-Gard",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -19,
+    "dateDisplay": "ca. 19 BCE (funded by Marcus Agrippa)",
+    "lat": 43.9474,
+    "lng": 4.5355,
+    "location": "Nimes, France",
+    "significance": "A monumental three-tiered stone aqueduct bridge spanning the Gardon valley. Part of the 50 km aqueduct supplying Nemausus (Nimes). One of the best-preserved Roman aqueducts.",
+    "image": "images/pont-du-gard.png",
+    "imageAttribution": "Benh LIEU SONG / CC BY-SA 3.0"
+  },
+  {
+    "id": "segovia-aqueduct",
+    "name": "Aqueduct of Segovia",
+    "type": "point",
+    "category": "aqueduct",
+    "date": 50,
+    "dateDisplay": "1st c. CE",
+    "lat": 40.948,
+    "lng": -4.1176,
+    "location": "Segovia, Spain",
+    "significance": "Massive granite arched aqueduct with a 1% gradient, built without mortar. Its 167 arches and 28m height made it one of the tallest Roman aqueducts.",
+    "image": "images/segovia-aqueduct.png",
+    "imageAttribution": "Bernard Gagnon / CC BY-SA 3.0"
+  },
+  {
+    "id": "aqua-appia",
+    "name": "Aqua Appia",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -312,
+    "dateDisplay": "312 BCE",
+    "lat": 41.8872,
+    "lng": 12.4818,
+    "location": "Rome, Italy",
+    "significance": "Rome's first aqueduct, running entirely underground to the Forum Boarium. Built by Appius Claudius Caecus, the same censor who commissioned the Via Appia."
+  },
+  {
+    "id": "aqua-claudia",
+    "name": "Aqua Claudia",
+    "type": "point",
+    "category": "aqueduct",
+    "date": 38,
+    "dateEnd": 52,
+    "dateDestroyed": 537,
+    "destroyedNote": "Cut by the Goths during the siege of Rome in 537 CE; partially repaired by popes",
+    "dateDisplay": "38-52 CE",
+    "lat": 41.8585,
+    "lng": 12.5546,
+    "location": "Rome, Italy",
+    "significance": "Monumental stone and concrete aqueduct begun by Caligula and finished by Claudius. Its towering arches at the Porta Maggiore remain a landmark of Rome."
+  },
+  {
+    "id": "ferreres-aqueduct",
+    "name": "Ferreres Aqueduct (Pont del Diable)",
+    "type": "point",
+    "category": "aqueduct",
+    "date": 25,
+    "dateDisplay": "1st c. CE",
+    "lat": 41.149,
+    "lng": 1.2196,
+    "location": "Tarragona, Spain",
+    "significance": "Two-tiered aqueduct bridge built of local limestone. Known as the 'Devil's Bridge' due to medieval legends about its seemingly impossible construction.",
+    "image": "images/ferreres-aqueduct.png",
+    "imageAttribution": "Alberto-g-rovi / CC BY-SA 3.0"
+  },
+  {
+    "id": "cloaca-maxima",
+    "name": "Cloaca Maxima",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -600,
+    "dateDisplay": "ca. 600 BCE",
+    "lat": 41.8914,
+    "lng": 12.486,
+    "location": "Rome, Italy",
+    "significance": "The 'Great Drain' of Rome, originally an open channel later vaulted in stone. One of the world's earliest sewage systems, draining the Forum valley into the Tiber.",
+    "image": "images/cloaca-maxima.png",
+    "imageAttribution": "Lalupa / Public domain"
+  },
+  {
+    "id": "gier-aqueduct",
+    "name": "Gier Aqueduct",
+    "type": "point",
+    "category": "aqueduct",
+    "date": 50,
+    "dateDisplay": "1st c. CE",
+    "lat": 45.764,
+    "lng": 4.8357,
+    "location": "Lyon, France",
+    "significance": "Famous for its four large inverted siphons crossing deep valleys. Demonstrated advanced Roman hydraulic engineering using pressurized lead pipes."
+  },
+  {
+    "id": "jerwan-aqueduct",
+    "name": "Jerwan Aqueduct",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -690,
+    "dateDisplay": "703-680 BCE",
+    "lat": 36.54,
+    "lng": 43.57,
+    "location": "Assyria (modern Iraq)",
+    "significance": "Built by Sennacherib I to supply Nineveh. An early massive canal bridge spanning a wadi, predating Roman aqueduct engineering by centuries."
+  },
+  {
+    "id": "castellum-divisorium",
+    "name": "Castellum Divisorium",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -80,
+    "dateDisplay": "ca. 80 BCE",
+    "lat": 40.7517,
+    "lng": 14.4886,
+    "location": "Pompeii, Italy",
+    "significance": "A brick-faced concrete distribution tower at the city's highest point. Filtered and distributed aqueduct water to different districts via lead pipes."
+  },
+  {
+    "id": "piscina-mirabilis",
+    "name": "Piscina Mirabilis",
+    "type": "point",
+    "category": "aqueduct",
+    "date": 10,
+    "dateDisplay": "Augustan era",
+    "lat": 40.813,
+    "lng": 14.0843,
+    "location": "Bacoli, Italy",
+    "significance": "A 12,600 cubic meter cistern that likely supplied the Roman fleet at Misenum. One of the largest Roman water reservoirs ever built."
+  },
+  {
+    "id": "baths-of-caracalla",
+    "name": "Baths of Caracalla",
+    "type": "point",
+    "category": "bath",
+    "date": 211,
+    "dateEnd": 216,
+    "dateDestroyed": 537,
+    "destroyedNote": "Put out of action in 537 CE when the Goths cut Rome's aqueducts during siege",
+    "dateDisplay": "211-216 CE",
+    "lat": 41.8791,
+    "lng": 12.4922,
+    "location": "Rome, Italy",
+    "significance": "A paradigm of imperial architecture utilizing massive concrete groin vaults and domes. Could serve 6,000-8,000 bathers simultaneously. The largest baths in Rome at its time.",
+    "image": "images/baths-of-caracalla.png",
+    "imageAttribution": "Ethan Doyle White / CC BY-SA 4.0"
+  },
+  {
+    "id": "san-casciano",
+    "name": "San Casciano dei Bagni",
+    "type": "point",
+    "category": "bath",
+    "date": -100,
+    "dateDisplay": "1st c. BCE",
+    "lat": 42.8713,
+    "lng": 11.8753,
+    "location": "San Casciano, Italy",
+    "significance": "Sacred hot springs complex holding extraordinary bronze votive deposits. Recent excavations uncovered some of the finest ancient bronzes ever found in Italy."
+  },
+  {
+    "id": "baths-at-bath",
+    "name": "Roman Baths at Bath",
+    "type": "point",
+    "category": "bath",
+    "date": 60,
+    "dateDisplay": "1st c. CE",
+    "lat": 51.3813,
+    "lng": -2.3596,
+    "location": "Bath, England",
+    "significance": "Monumental provincial medicinal and recreational bath complex built around natural hot springs. Demonstrates how Roman bathing culture spread to the empire's fringes."
+  },
+  {
+    "id": "parthenon",
+    "name": "Parthenon",
+    "type": "point",
+    "category": "temple",
+    "date": -447,
+    "dateEnd": -432,
+    "dateDisplay": "447-432 BCE",
+    "lat": 37.9715,
+    "lng": 23.7267,
+    "location": "Athens, Greece",
+    "significance": "Pentelic marble temple on the Acropolis built under Pericles. Housed Phidias' chryselephantine statue of Athena Parthenos. Masterpiece of Doric architecture with optical refinements.",
+    "image": "images/parthenon.png",
+    "imageAttribution": "Steve Swayne / CC BY 2.0"
+  },
+  {
+    "id": "pantheon",
+    "name": "Pantheon",
+    "type": "point",
+    "category": "temple",
+    "date": 113,
+    "dateEnd": 128,
+    "dateDisplay": "110s-128 CE (Hadrianic rebuild)",
+    "lat": 41.8986,
+    "lng": 12.4769,
+    "location": "Rome, Italy",
+    "significance": "Features a massive unreinforced concrete dome spanning 43.3m (142 ft), the largest in the world for over 1,300 years. The oculus remains the sole source of natural light.",
+    "image": "images/pantheon.png",
+    "imageAttribution": "Rabax63 / CC BY-SA 4.0"
+  },
+  {
+    "id": "temple-artemis-ephesus",
+    "name": "Temple of Artemis at Ephesus",
+    "type": "point",
+    "category": "temple",
+    "date": -550,
+    "dateEnd": -460,
+    "dateDestroyed": -356,
+    "destroyedNote": "Burned by Herostratus in 356 BCE; rebuilt and later destroyed again",
+    "dateDisplay": "ca. 560-550 BCE",
+    "lat": 37.9497,
+    "lng": 27.3639,
+    "location": "Ephesus, Turkey",
+    "significance": "One of the Seven Wonders of the Ancient World. The largest temple in the Greek world, built by Chersiphron and Metagenes. Destroyed and rebuilt multiple times."
+  },
+  {
+    "id": "temple-apollo-didyma",
+    "name": "Temple of Apollo at Didyma",
+    "type": "point",
+    "category": "temple",
+    "date": -300,
+    "dateDisplay": "300/299 BCE",
+    "lat": 37.3847,
+    "lng": 27.2572,
+    "location": "Didyma, Turkey",
+    "significance": "A massive Hellenistic temple featuring early barrel-vaulted passageways. Never fully completed despite centuries of construction, it housed a famous oracle."
+  },
+  {
+    "id": "temple-concordia-agrigento",
+    "name": "Temple of Concordia",
+    "type": "point",
+    "category": "temple",
+    "date": -430,
+    "dateDisplay": "440-430 BCE",
+    "lat": 37.2898,
+    "lng": 13.5929,
+    "location": "Agrigento, Sicily",
+    "significance": "One of the best-preserved Doric temples. Built of local limestone, it preserves evidence of timber roof construction sockets used by ancient engineers.",
+    "image": "images/temple-concordia-agrigento.png",
+    "imageAttribution": "Berthold Werner / CC BY-SA 3.0"
+  },
+  {
+    "id": "temple-hera-paestum",
+    "name": "Temple of Hera at Paestum",
+    "type": "point",
+    "category": "temple",
+    "date": -525,
+    "dateDisplay": "550-525 BCE",
+    "lat": 40.4207,
+    "lng": 15.0048,
+    "location": "Paestum, Italy",
+    "significance": "An early limestone Doric temple featuring an interior colonnade to split the roof load. Demonstrates the engineering challenges of spanning wide temple interiors.",
+    "image": "images/temple-hera-paestum.png",
+    "imageAttribution": "Bernard Gagnon / CC BY 4.0"
+  },
+  {
+    "id": "temple-jupiter-baalbek",
+    "name": "Temple of Jupiter at Baalbek",
+    "type": "point",
+    "category": "temple",
+    "date": 60,
+    "dateDisplay": "1st-2nd c. CE",
+    "lat": 34.0069,
+    "lng": 36.2044,
+    "location": "Baalbek, Lebanon",
+    "significance": "A massive Roman temple famous for the 'trilithon' blocks, each weighing over 800 tons. Among the largest stones ever quarried and moved in the ancient world.",
+    "image": "images/temple-jupiter-baalbek.png",
+    "imageAttribution": "Vyacheslav Argenberg / CC BY 4.0"
+  },
+  {
+    "id": "temple-portunus",
+    "name": "Temple of Portunus",
+    "type": "point",
+    "category": "temple",
+    "date": -100,
+    "dateDisplay": "Late 2nd / early 1st c. BCE",
+    "lat": 41.8892,
+    "lng": 12.4802,
+    "location": "Rome, Italy",
+    "significance": "A pseudoperipteral temple of tufa and travertine near the Forum Boarium. One of the best-preserved Republican temples in Rome."
+  },
+  {
+    "id": "colosseum",
+    "name": "Colosseum (Flavian Amphitheater)",
+    "type": "point",
+    "category": "public",
+    "date": 70,
+    "dateEnd": 80,
+    "destroyedNote": "Seating quarried away in the post-antique period; structure partially survives",
+    "dateDisplay": "70-80 CE",
+    "lat": 41.8902,
+    "lng": 12.4922,
+    "location": "Rome, Italy",
+    "significance": "Built with travertine and concrete, it could seat 50,000-80,000 spectators. Featured a sophisticated system of vaults, corridors, and a retractable awning (velarium).",
+    "image": "images/colosseum.png",
+    "imageAttribution": "Wilfredor / CC0"
+  },
+  {
+    "id": "domus-aurea",
+    "name": "Domus Aurea (Nero's Golden House)",
+    "type": "point",
+    "category": "public",
+    "date": 64,
+    "dateEnd": 68,
+    "destroyedNote": "Buried under later construction (Baths of Trajan); subterranean passages survive with frescoes",
+    "dateDisplay": "64-68 CE",
+    "lat": 41.8913,
+    "lng": 12.4956,
+    "location": "Rome, Italy",
+    "significance": "Sprawling imperial palace famous for its revolutionary octagonal concrete room with an oculus. Pushed the boundaries of Roman concrete vaulting technology.",
+    "image": "images/domus-aurea.png",
+    "imageAttribution": "Davide Mauro / CC BY-SA 4.0"
+  },
+  {
+    "id": "trajans-markets",
+    "name": "Trajan's Markets",
+    "type": "point",
+    "category": "public",
+    "date": 110,
+    "dateDisplay": "Early 2nd c. CE",
+    "lat": 41.8955,
+    "lng": 12.4867,
+    "location": "Rome, Italy",
+    "significance": "A multi-level commercial complex featuring concrete clerestory groin vaults. Often called the world's first shopping mall, designed by Apollodorus of Damascus.",
+    "image": "images/trajans-markets.png",
+    "imageAttribution": "NikonZ7II / CC BY-SA 4.0"
+  },
+  {
+    "id": "basilica-nova",
+    "name": "Basilica Nova (Basilica of Maxentius)",
+    "type": "point",
+    "category": "public",
+    "date": 306,
+    "dateEnd": 313,
+    "dateDisplay": "306-313 CE",
+    "lat": 41.8923,
+    "lng": 12.4882,
+    "location": "Rome, Italy",
+    "significance": "A massive concrete-vaulted civic building. Its remaining north aisle vaults demonstrate the enormous scale Roman concrete construction achieved in late antiquity."
+  },
+  {
+    "id": "column-of-trajan",
+    "name": "Column of Trajan",
+    "type": "point",
+    "category": "fortification",
+    "date": 113,
+    "dateDisplay": "106-113 CE",
+    "lat": 41.8958,
+    "lng": 12.4843,
+    "location": "Rome, Italy",
+    "significance": "A 35m victory column commemorating the Dacian Wars. Its continuous spiral relief depicts Roman military engineering including bridge-building, siege works, and fortification.",
+    "image": "images/column-of-trajan.png",
+    "imageAttribution": "Alvesgaspar / CC BY-SA 4.0"
+  },
+  {
+    "id": "arch-of-constantine",
+    "name": "Arch of Constantine",
+    "type": "point",
+    "category": "fortification",
+    "date": 315,
+    "dateDisplay": "315 CE",
+    "lat": 41.8898,
+    "lng": 12.4906,
+    "location": "Rome, Italy",
+    "significance": "A triumphal arch built with concrete, brick, and marble facing. The largest surviving Roman triumphal arch, incorporating spolia from earlier imperial monuments.",
+    "image": "images/arch-of-constantine.png",
+    "imageAttribution": "Paris Orlando / CC BY-SA 4.0"
+  },
+  {
+    "id": "caesarea-maritima",
+    "name": "Harbor at Caesarea Maritima",
+    "type": "point",
+    "category": "harbor",
+    "date": -22,
+    "dateDisplay": "ca. 22-15 BCE",
+    "lat": 32.4998,
+    "lng": 34.8903,
+    "location": "Caesarea, Palestine",
+    "significance": "An artificial harbor built by Herod the Great using imported volcanic pozzolana concrete poured into wooden caissons. Revolutionary use of hydraulic concrete in open water.",
+    "image": "images/caesarea-maritima.png",
+    "imageAttribution": "PikiWiki Israel / CC BY 2.5"
+  },
+  {
+    "id": "portus",
+    "name": "Harbor at Portus",
+    "type": "point",
+    "category": "harbor",
+    "date": 42,
+    "dateDisplay": "1st-2nd c. CE",
+    "lat": 41.7801,
+    "lng": 12.2617,
+    "location": "Ostia, Italy",
+    "significance": "Rome's main port complex. Claudius built the outer harbor; Trajan added a hexagonal inner basin. Featured massive warehouses (horrea) and stone mooring bollards."
+  },
+  {
+    "id": "cosa-harbor",
+    "name": "Harbor at Cosa",
+    "type": "point",
+    "category": "harbor",
+    "date": -75,
+    "dateDisplay": "Mid-1st c. BCE",
+    "lat": 42.4088,
+    "lng": 11.2879,
+    "location": "Cosa, Italy",
+    "significance": "Features some of the earliest surviving hydraulic concrete piers (pilae). An experimental site for the concrete technology later used at Caesarea Maritima."
+  },
+  {
+    "id": "piraeus",
+    "name": "Piraeus Harbors",
+    "type": "point",
+    "category": "harbor",
+    "date": -493,
+    "dateDisplay": "5th c. BCE",
+    "lat": 37.9425,
+    "lng": 23.6469,
+    "location": "Athens, Greece",
+    "significance": "Athens' port complex featuring an emporion (commercial district) aligned on Hippodamian grid plan. Three harbors: Kantharos (commercial), Zea and Munychia (military)."
+  },
+  {
+    "id": "leptis-magna-harbor",
+    "name": "Harbor at Leptis Magna",
+    "type": "point",
+    "category": "harbor",
+    "date": 200,
+    "dateDisplay": "Severan era (early 3rd c. CE)",
+    "lat": 32.6382,
+    "lng": 14.2928,
+    "location": "Leptis Magna, Libya",
+    "significance": "A grandiose harbor project utilizing massive ashlar masonry for quays. Part of Emperor Septimius Severus' hometown building program in North Africa."
+  },
+  {
+    "id": "alexandria-harbor",
+    "name": "Harbors of Alexandria",
+    "type": "point",
+    "category": "harbor",
+    "date": -250,
+    "dateDisplay": "Mid-3rd c. BCE",
+    "lat": 31.2001,
+    "lng": 29.9187,
+    "location": "Alexandria, Egypt",
+    "significance": "Major Hellenistic port built using lime mortar and wooden forms. Home of the Pharos lighthouse, one of the Seven Wonders, which guided ships into the Great Harbor."
+  },
+  {
+    "id": "samos-breakwater",
+    "name": "Samos Breakwater",
+    "type": "point",
+    "category": "harbor",
+    "date": -530,
+    "dateDisplay": "ca. 530 BCE",
+    "lat": 37.7575,
+    "lng": 26.9776,
+    "location": "Samos, Greece",
+    "significance": "A massive engineering feat built by the tyrant Polycrates. One of three great works on Samos cited by Herodotus alongside the Eupalinus Tunnel."
+  },
+  {
+    "id": "mycenae-walls",
+    "name": "Mycenae Citadel Walls",
+    "type": "point",
+    "category": "fortification",
+    "date": -1350,
+    "dateDisplay": "Bronze Age (ca. 1350 BCE)",
+    "lat": 37.7308,
+    "lng": 22.7564,
+    "location": "Mycenae, Greece",
+    "significance": "Cyclopean limestone citadel walls so massive that later Greeks believed they were built by the mythical Cyclopes. Features the iconic Lion Gate entrance.",
+    "image": "images/mycenae-walls.png",
+    "imageAttribution": "Annatsach / CC BY-SA 4.0"
+  },
+  {
+    "id": "cosa-walls",
+    "name": "Circuit Walls of Cosa",
+    "type": "point",
+    "category": "fortification",
+    "date": -273,
+    "dateDisplay": "273 BCE",
+    "lat": 42.4092,
+    "lng": 11.2883,
+    "location": "Cosa, Italy",
+    "significance": "Circuit walls surrounding a strict orthogonal grid colony. A textbook example of Roman colonial urban planning and fortification."
+  },
+  {
+    "id": "aosta-walls",
+    "name": "Circuit Walls of Aosta",
+    "type": "point",
+    "category": "fortification",
+    "date": -25,
+    "dateDisplay": "25 BCE",
+    "lat": 45.7372,
+    "lng": 7.3209,
+    "location": "Aosta, Italy",
+    "significance": "A rectangular circuit wall bounding an orthogonal grid with distinct zoning. Founded as Augusta Praetoria Salassorum after Augustus' Alpine campaigns."
+  },
+  {
+    "id": "cordoba-bridge",
+    "name": "Roman Bridge at Cordoba",
+    "type": "point",
+    "category": "bridge",
+    "date": 1,
+    "dateDisplay": "1st c. CE",
+    "lat": 37.8765,
+    "lng": -4.7791,
+    "location": "Cordoba, Spain",
+    "significance": "A multi-arched stone bridge built using opus incertum. Spans the Guadalquivir River and originally carried the Via Augusta."
+  },
+  {
+    "id": "ponte-narni",
+    "name": "Bridge of Augustus at Narni",
+    "type": "point",
+    "category": "bridge",
+    "date": -27,
+    "dateDisplay": "Augustan era",
+    "lat": 42.5131,
+    "lng": 12.5278,
+    "location": "Narni, Italy",
+    "significance": "Monumental stone bridge with a massive 32.1m span featuring bossed limestone blocks. Only one arch survives, but it remains one of the tallest Roman bridge arches."
+  },
+  {
+    "id": "serino-aqueduct",
+    "name": "Serino Aqueduct",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -10,
+    "dateDisplay": "Augustan era",
+    "lat": 40.8518,
+    "lng": 14.2681,
+    "location": "Campania, Italy",
+    "significance": "A 96 km regional aqueduct network supplying Naples, Pompeii, Baiae, and the naval base at Misenum. One of the most complex Roman water distribution systems."
+  },
+  {
+    "id": "tomb-of-theodoric",
+    "name": "Tomb of Theodoric",
+    "type": "point",
+    "category": "fortification",
+    "date": 530,
+    "dateDisplay": "530 CE",
+    "lat": 44.4252,
+    "lng": 12.2109,
+    "location": "Ravenna, Italy",
+    "significance": "Known for its staggering 470-ton monolithic Istrian stone roof slab. Represents the final echoes of Roman construction ambition in the post-imperial period."
+  },
+  {
+    "id": "tabula-traiana",
+    "name": "Tabula Traiana",
+    "type": "point",
+    "category": "fortification",
+    "date": 101,
+    "dateDisplay": "ca. 101 CE",
+    "lat": 44.6308,
+    "lng": 22.2862,
+    "location": "Djerdap Gorge, Serbia",
+    "significance": "A rock-cut monument marking Trajan's road-building along the Danube. Commemorates the engineering of a military road carved into the cliff face above the river."
+  },
+  {
+    "id": "triumphal-arch-orange",
+    "name": "Triumphal Arch at Orange",
+    "type": "point",
+    "category": "fortification",
+    "date": 20,
+    "dateDisplay": "ca. 20 CE",
+    "lat": 44.138,
+    "lng": 4.8091,
+    "location": "Orange, France",
+    "significance": "A limestone triumphal arch with sculpted reliefs depicting naval and military victories. One of the best-preserved Roman arches outside Italy."
+  },
+  {
+    "id": "corbulos-canal",
+    "name": "Corbulo's Canal",
+    "type": "point",
+    "category": "tunnel",
+    "date": 47,
+    "dateDisplay": "47 CE",
+    "lat": 52.0116,
+    "lng": 4.3571,
+    "location": "Between Rhine and Maas, Netherlands",
+    "significance": "A 35 km navigational canal linking the Rhine to the Maas to avoid the perilous North Sea. Built by the general Corbulo for military logistics."
+  },
+  {
+    "id": "battle-marathon",
+    "name": "Battle of Marathon",
+    "type": "point",
+    "category": "battle",
+    "date": -490,
+    "dateDisplay": "490 BCE",
+    "lat": 38.117,
+    "lng": 23.9742,
+    "location": "Marathon, Attica, Greece",
+    "significance": "The Greeks used heavy armor, shields, and the tightly packed hoplite phalanx formation to defeat the invading Persian forces. A pivotal moment for Greek military technology."
+  },
+  {
+    "id": "battle-salamis",
+    "name": "Battle of Salamis",
+    "type": "point",
+    "category": "battle",
+    "date": -480,
+    "dateDisplay": "September 480 BCE",
+    "lat": 37.96,
+    "lng": 23.59,
+    "location": "Straits of Salamis, Greece",
+    "significance": "Decisive naval victory where Greek triremes (lightweight warships with bronze battering rams) defeated the Persian fleet. Greek ships were pulled ashore to dry, making them lighter and faster than waterlogged Persian vessels."
+  },
+  {
+    "id": "siege-tyre",
+    "name": "Siege of Tyre",
+    "type": "point",
+    "category": "battle",
+    "date": -332,
+    "dateDisplay": "332 BCE",
+    "lat": 33.2705,
+    "lng": 35.1956,
+    "location": "Tyre, Phoenicia (Lebanon)",
+    "significance": "Alexander the Great built a half-mile causeway to reach the island city, deployed 130-foot siege towers (helepolis), ship-mounted battering rams, and catapults. A landmark in Hellenistic siege technology."
+  },
+  {
+    "id": "battle-mylae",
+    "name": "Battle of Mylae",
+    "type": "point",
+    "category": "battle",
+    "date": -260,
+    "dateDisplay": "260 BCE",
+    "lat": 38.1167,
+    "lng": 15.2333,
+    "location": "Mylae, Sicily",
+    "significance": "Rome invented the corvus, a boarding bridge with an iron spike that locked enemy ships together. This turned naval combat into hand-to-hand land fighting, neutralizing Carthage's naval superiority."
+  },
+  {
+    "id": "siege-syracuse",
+    "name": "Siege of Syracuse",
+    "type": "point",
+    "category": "battle",
+    "date": -213,
+    "dateDisplay": "213 BCE",
+    "lat": 37.0755,
+    "lng": 15.2866,
+    "location": "Syracuse, Sicily",
+    "significance": "Archimedes defended the city against Roman siege using innovative defensive machines. He pierced existing walls at lower points for direct fire, demonstrating how engineering could counter Roman military might."
+  },
+  {
+    "id": "siege-alesia",
+    "name": "Siege of Alesia",
+    "type": "point",
+    "category": "battle",
+    "date": -52,
+    "dateDisplay": "52 BCE",
+    "lat": 47.5364,
+    "lng": 4.5003,
+    "location": "Alesia, Gaul (France)",
+    "significance": "The ultimate example of Roman circumvallation. Caesar's troops built 35 km of double-encirclement walls in under three weeks, with moats, watchtowers, and spiked obstacle fields (lilia). Victory through superior engineering."
+  },
+  {
+    "id": "siege-masada",
+    "name": "Siege of Masada",
+    "type": "point",
+    "category": "battle",
+    "date": 73,
+    "dateDisplay": "73 CE",
+    "lat": 31.3156,
+    "lng": 35.3535,
+    "location": "Masada, Judaea (Israel)",
+    "significance": "The Roman army engineered a massive assault ramp of earth and stone to reach the elevated mountaintop fortress. The surviving ramp remains one of the most impressive Roman siege works.",
+    "image": "images/siege-masada.png",
+    "imageAttribution": "Godot13 / CC BY-SA 4.0"
+  },
+  {
+    "id": "dacian-wars",
+    "name": "Trajan's Dacian Wars",
+    "type": "point",
+    "category": "battle",
+    "date": 101,
+    "dateDisplay": "101-106 CE",
+    "lat": 45.9432,
+    "lng": 24.9668,
+    "location": "Dacia (Romania)",
+    "significance": "Apollodorus of Damascus engineered a monumental bridge over the Danube. The Roman army utilized the testudo (tortoise) formation, rapid camp-building, and coordinated siege operations. Commemorated on the Column of Trajan."
+  },
+  {
+    "id": "siege-lachish",
+    "name": "Siege of Lachish",
+    "type": "point",
+    "category": "battle",
+    "date": -701,
+    "dateDisplay": "701 BCE",
+    "lat": 31.5644,
+    "lng": 34.8494,
+    "location": "Lachish, Israel",
+    "significance": "Assyrian forces used movable siege towers, wheeled battering rams, and archers on constructed ramps to assault the city walls. Depicted in famous palace reliefs from Nineveh now in the British Museum."
+  },
+  {
+    "id": "siege-yodfat",
+    "name": "Siege of Yodfat",
+    "type": "point",
+    "category": "battle",
+    "date": 67,
+    "dateDisplay": "67 CE",
+    "lat": 32.8261,
+    "lng": 35.2731,
+    "location": "Yodfat, Judaea (Israel)",
+    "significance": "During a 47-day siege, Vespasian utilized a blockade, a massive agger (ramp), heavy battering rams, and three siege towers. Defenders used hot oil, nighttime raids, and psychological warfare."
+  },
+  {
+    "id": "via-aurelia",
+    "name": "Via Aurelia",
+    "type": "line",
+    "category": "road",
+    "date": -241,
+    "dateDisplay": "Mid-3rd c. BCE",
+    "location": "Rome to Pisa/Genoa, Italy",
+    "significance": "A major coastal route along the Tyrrhenian Sea, connecting Rome to Liguria and the northwest coast of Italy.",
+    "coordinates": [
+      [
+        41.8989,
+        12.4731
+      ],
+      [
+        42.0489,
+        11.8
+      ],
+      [
+        42.25,
+        11.35
+      ],
+      [
+        42.41,
+        11.11
+      ],
+      [
+        42.76,
+        10.93
+      ],
+      [
+        43.05,
+        10.63
+      ],
+      [
+        43.32,
+        10.33
+      ],
+      [
+        43.55,
+        10.31
+      ],
+      [
+        43.72,
+        10.39
+      ],
+      [
+        44.05,
+        10.0
+      ],
+      [
+        44.11,
+        9.82
+      ],
+      [
+        44.31,
+        9.32
+      ],
+      [
+        44.4056,
+        8.9463
+      ]
+    ]
+  },
+  {
+    "id": "via-cassia",
+    "name": "Via Cassia",
+    "type": "line",
+    "category": "road",
+    "date": -187,
+    "dateDisplay": "Roman Republic",
+    "location": "Rome to Florence, Italy",
+    "significance": "Penetrated the heartland of Etruria through Sutri, Chiusi, and Arezzo, connecting Rome to Florence. Part of a network of roads built during the 3rd-2nd centuries BCE to consolidate Roman control over former Etruscan territories (Quilici, in Oleson 2009).",
+    "coordinates": [
+      [
+        41.8989,
+        12.4731
+      ],
+      [
+        42.2849,
+        12.2238
+      ],
+      [
+        42.4169,
+        11.8725
+      ],
+      [
+        42.7612,
+        11.7264
+      ],
+      [
+        43.2088,
+        11.4092
+      ],
+      [
+        43.4561,
+        11.4597
+      ],
+      [
+        43.7696,
+        11.2558
+      ]
+    ]
+  },
+  {
+    "id": "via-domitiana",
+    "name": "Via Domitiana",
+    "type": "line",
+    "category": "road",
+    "date": 95,
+    "dateDisplay": "95 CE",
+    "location": "Sinuessa to Puteoli, Italy",
+    "significance": "Built rapidly by Emperor Domitian to connect the Via Appia to the port of Puteoli. Famously celebrated by the poet Statius in his Silvae.",
+    "coordinates": [
+      [
+        41.2635,
+        13.8753
+      ],
+      [
+        41.1307,
+        13.95
+      ],
+      [
+        41.0245,
+        14.05
+      ],
+      [
+        40.8389,
+        14.1194
+      ]
+    ]
+  },
+  {
+    "id": "via-salaria",
+    "name": "Via Salaria",
+    "type": "line",
+    "category": "road",
+    "date": -200,
+    "dateDisplay": "Late Republic/Augustan era",
+    "location": "Rome northward along the Tiber, Italy",
+    "significance": "Named for the salt trade route it followed. A canonical example of Roman stone paving replacing earlier gravel surfaces.",
+    "coordinates": [
+      [
+        41.8989,
+        12.4731
+      ],
+      [
+        42.2726,
+        12.7988
+      ],
+      [
+        42.4604,
+        13.0914
+      ],
+      [
+        42.716,
+        13.3912
+      ]
+    ]
+  },
+  {
+    "id": "via-popilia",
+    "name": "Via Popilia",
+    "type": "line",
+    "category": "road",
+    "date": -132,
+    "dateDisplay": "Roman Republic",
+    "location": "Southern Italy to Reggio Calabria",
+    "significance": "Major southern artery completed by P. Popilius, extending Roman road infrastructure to the toe of Italy.",
+    "coordinates": [
+      [
+        40.6403,
+        14.8028
+      ],
+      [
+        40.45,
+        15.05
+      ],
+      [
+        40.26,
+        15.39
+      ],
+      [
+        39.97,
+        15.81
+      ],
+      [
+        39.71,
+        16.08
+      ],
+      [
+        39.3,
+        16.25
+      ],
+      [
+        38.91,
+        16.52
+      ],
+      [
+        38.46,
+        16.12
+      ],
+      [
+        38.11,
+        15.65
+      ]
+    ]
+  },
+  {
+    "id": "via-tiburtina",
+    "name": "Via Tiburtina",
+    "type": "line",
+    "category": "road",
+    "date": -286,
+    "dateDisplay": "Roman Republic",
+    "location": "Rome to Tivoli, Italy",
+    "significance": "Connected Rome to the ancient city of Tibur (modern Tivoli) and the Sabine territory to the east. When passing the thermal springs at Acque Albule, its roadbed required reinforced foundations to cross the unstable ground (Quilici, in Oleson 2009).",
+    "coordinates": [
+      [
+        41.8989,
+        12.4731
+      ],
+      [
+        41.9455,
+        12.6468
+      ],
+      [
+        41.9614,
+        12.7991
+      ]
+    ]
+  },
+  {
+    "id": "sacred-route-eleusis",
+    "name": "Sacred Way (Athens to Eleusis)",
+    "type": "line",
+    "category": "road",
+    "date": -500,
+    "dateDisplay": "Archaic Greek",
+    "location": "Athens to Eleusis, Greece",
+    "significance": "Ceremonial route for the sacred procession to the sanctuary of Demeter at Eleusis during the Eleusinian Mysteries.",
+    "coordinates": [
+      [
+        37.9715,
+        23.7267
+      ],
+      [
+        38.0148,
+        23.613
+      ],
+      [
+        38.0424,
+        23.5373
+      ]
+    ]
+  },
+  {
+    "id": "ponte-alcantara",
+    "name": "Ponte de Alcantara",
+    "type": "point",
+    "category": "bridge",
+    "date": 104,
+    "dateDisplay": "Trajanic period",
+    "lat": 39.7224,
+    "lng": -6.8945,
+    "location": "Alcantara, Spain",
+    "significance": "A monumental bridge over the Tajo river, one of the finest surviving Roman bridges. Features an inscription honoring the builder and a triumphal arch at its center.",
+    "image": "images/ponte-alcantara.png",
+    "imageAttribution": "Dantla / GFDL"
+  },
+  {
+    "id": "ariccia-viaduct",
+    "name": "Ariccia Viaduct (Via Appia)",
+    "type": "point",
+    "category": "bridge",
+    "date": -150,
+    "dateDisplay": "Late 2nd c. BCE",
+    "lat": 41.7209,
+    "lng": 12.6721,
+    "location": "Ariccia, Italy",
+    "significance": "A 230m long, 13m high viaduct carrying the Via Appia over a steep valley. Built of volcanic tuff blocks laid as headers and stretchers retaining a concrete core, with four vaulted openings for transverse traffic and water drainage (Quilici, in Oleson 2009)."
+  },
+  {
+    "id": "volturnus-bridge",
+    "name": "Volturnus Bridge (Via Domitiana)",
+    "type": "point",
+    "category": "bridge",
+    "date": 95,
+    "dateDisplay": "95 CE",
+    "lat": 41.0245,
+    "lng": 14.05,
+    "location": "Volturnus River, Italy",
+    "significance": "Featured elegant double voussoirs of brick facing a concrete core. Built as part of Domitian's Via Domitiana."
+  },
+  {
+    "id": "ponte-terra-veii",
+    "name": "Ponte Terra & Ponte Sodo",
+    "type": "point",
+    "category": "tunnel",
+    "date": -500,
+    "dateDisplay": "6th/5th c. BCE",
+    "lat": 42.0222,
+    "lng": 12.4011,
+    "location": "Veii, Italy",
+    "significance": "Etruscan counter-excavation river diversion tunnels. Among the earliest examples of tunnel engineering in Italy."
+  },
+  {
+    "id": "lake-nemi-tunnel",
+    "name": "Lake Nemi Drainage Tunnel",
+    "type": "point",
+    "category": "tunnel",
+    "date": -400,
+    "dateDisplay": "6th-4th c. BCE",
+    "lat": 41.7167,
+    "lng": 12.7167,
+    "location": "Lake Nemi, Italy",
+    "significance": "Etruscan and Roman drainage tunnel built to manage the water levels of volcanic Lake Nemi in the Alban Hills. Part of a regional tradition of hydraulic engineering that predates Roman aqueduct construction by centuries."
+  },
+  {
+    "id": "furlo-tunnel",
+    "name": "Passo del Furlo Tunnel",
+    "type": "point",
+    "category": "tunnel",
+    "date": 76,
+    "dateDisplay": "69-79 CE (Vespasian)",
+    "lat": 43.6367,
+    "lng": 12.7095,
+    "location": "Furlo Pass, Italy",
+    "significance": "Road tunnel built by Vespasian through the Furlo gorge on the Via Flaminia. Cut through solid rock to bypass a dangerous mountain pass."
+  },
+  {
+    "id": "petra-tunnel",
+    "name": "Petra Flood Control Tunnel",
+    "type": "point",
+    "category": "tunnel",
+    "date": -50,
+    "dateDisplay": "Nabatean/Roman",
+    "lat": 30.3285,
+    "lng": 35.4444,
+    "location": "Petra, Jordan",
+    "significance": "Nabatean/Roman river diversion tunnel built for flood control at the entrance to the ancient city of Petra. Redirected seasonal flash floods away from the narrow Siq gorge that served as the city's main approach."
+  },
+  {
+    "id": "drusus-canal",
+    "name": "Drusus' Canal",
+    "type": "point",
+    "category": "tunnel",
+    "date": -12,
+    "dateDisplay": "12 BCE",
+    "lat": 51.97,
+    "lng": 5.665,
+    "location": "Rhine to North Sea, Netherlands",
+    "significance": "A navigational canal built by the general Drusus in 12 BCE for military transport, linking the Rhine river system to the North Sea. Enabled rapid movement of troops and supplies along Rome's northern frontier."
+  },
+  {
+    "id": "marius-canal",
+    "name": "Marius Canal (Fosse Mariana)",
+    "type": "point",
+    "category": "tunnel",
+    "date": -104,
+    "dateDisplay": "104 BCE",
+    "lat": 43.6767,
+    "lng": 4.6317,
+    "location": "Arles to Mediterranean, France",
+    "significance": "Canal built by the general Marius to bypass the difficult Rhone estuary for military logistics and trade."
+  },
+  {
+    "id": "qanat-ayn-manawir",
+    "name": "Qanats at Ayn-Manawir",
+    "type": "point",
+    "category": "tunnel",
+    "date": -443,
+    "dateDisplay": "ca. 443 BCE onwards",
+    "lat": 25.45,
+    "lng": 30.55,
+    "location": "Kharga Oasis, Egypt",
+    "significance": "Achaemenid qanat irrigation tunnels. Among the earliest known qanat systems in Egypt, showing Persian engineering influence."
+  },
+  {
+    "id": "babylon-aqueduct",
+    "name": "Babylon Water Supply System",
+    "type": "point",
+    "category": "tunnel",
+    "date": -600,
+    "dateDisplay": "Late 8th to mid-5th c. BCE",
+    "lat": 32.5427,
+    "lng": 44.4209,
+    "location": "Babylon, Iraq",
+    "significance": "Wells and a subterranean aqueduct supplying ancient Babylon. Near Eastern hydraulic engineering centuries before Roman innovations."
+  },
+  {
+    "id": "aqua-marcia",
+    "name": "Aqua Marcia",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -145,
+    "dateDisplay": "145 BCE",
+    "lat": 41.89,
+    "lng": 12.51,
+    "location": "Rome, Italy",
+    "significance": "Famous for running underground for 50 miles and elevated for 6 miles. Considered the finest of Rome's aqueducts for its exceptionally pure cold water."
+  },
+  {
+    "id": "anio-vetus",
+    "name": "Anio Vetus",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -272,
+    "dateDisplay": "272-269 BCE",
+    "lat": 41.89,
+    "lng": 12.5,
+    "location": "Rome, Italy",
+    "significance": "Rome's second aqueduct, drawing water from the Anio River. Built with spoils from the war against Pyrrhus."
+  },
+  {
+    "id": "aqua-traiana",
+    "name": "Aqua Traiana",
+    "type": "point",
+    "category": "aqueduct",
+    "date": 109,
+    "dateDisplay": "109 CE",
+    "lat": 41.89,
+    "lng": 12.47,
+    "location": "Rome, Italy",
+    "significance": "Built by Trajan to bring water from springs near Lake Bracciano. One of the later additions to Rome's aqueduct network."
+  },
+  {
+    "id": "pompeii-aqueduct",
+    "name": "Pompeii Aqueduct",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -80,
+    "dateDisplay": "ca. 80 BCE (Sullan)",
+    "lat": 40.7503,
+    "lng": 14.487,
+    "location": "Pompeii, Italy",
+    "significance": "Sullan aqueduct feeding public fountains, baths, and private connections. Preserved by the eruption of Vesuvius in 79 CE."
+  },
+  {
+    "id": "madra-dag-aqueduct",
+    "name": "Madra Dag Aqueduct",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -180,
+    "dateDisplay": "197-159 BCE",
+    "lat": 39.1167,
+    "lng": 27.1833,
+    "location": "Pergamon, Turkey",
+    "significance": "Hellenistic aqueduct constructed during the reign of Eumenes II (197-158 BCE) to bring water to the royal palace on the citadel of Pergamon. Ran for 42 km from a spring on the Madra Dag hill and featured a high-pressure inverted siphon (Oleson 2009)."
+  },
+  {
+    "id": "karapinar-siphon",
+    "name": "Karapinar Aqueduct Siphon",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -150,
+    "dateDisplay": "2nd c. BCE",
+    "lat": 38.4189,
+    "lng": 27.1287,
+    "location": "Smyrna (Izmir), Turkey",
+    "significance": "Aqueduct serving ancient Smyrna (modern Izmir) with a remarkable 150m deep inverted siphon, probably dating to the 2nd century BCE. Inspired by the earlier high-pressure siphon at Pergamon, one of the deepest known ancient siphons (Oleson 2009)."
+  },
+  {
+    "id": "alatri-siphon",
+    "name": "Alatri Aqueduct Siphon",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -125,
+    "dateDisplay": "ca. 130/120 BCE",
+    "lat": 41.7264,
+    "lng": 13.3436,
+    "location": "Alatri, Italy",
+    "significance": "Featured a 3 km long, 100m deep inverted lead siphon. An early Italian example of pressurized water conveyance."
+  },
+  {
+    "id": "enneakrounos",
+    "name": "Enneakrounos",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -530,
+    "dateDisplay": "Late 6th c. BCE",
+    "lat": 37.9715,
+    "lng": 23.7237,
+    "location": "Athens, Greece",
+    "significance": "Monumental fountain house sponsored by the tyrant Pisistratus. One of the most important early Greek public water infrastructure projects."
+  },
+  {
+    "id": "fountain-theagenes",
+    "name": "Fountain House of Theagenes",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -630,
+    "dateDisplay": "ca. 640-620 BCE",
+    "lat": 37.99,
+    "lng": 23.344,
+    "location": "Megara, Greece",
+    "significance": "An early Greek public spring featuring a roofed reservoir. One of the oldest known monumental fountain houses in the Greek world."
+  },
+  {
+    "id": "lower-peirene",
+    "name": "Lower Peirene Spring",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -600,
+    "dateDisplay": "Archaic Greek",
+    "lat": 37.906,
+    "lng": 22.88,
+    "location": "Corinth, Greece",
+    "significance": "A monumentalized spring and fountain at the heart of ancient Corinth, drawing water from natural karst springs. One of the earliest public water developments in the Greek world, serving as a social gathering point for centuries."
+  },
+  {
+    "id": "sikyon-fountain",
+    "name": "Sikyon Fountain House",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -300,
+    "dateDisplay": "ca. 300/299 BCE",
+    "lat": 37.982,
+    "lng": 22.7167,
+    "location": "Sikyon, Greece",
+    "significance": "Fountain house with barrel-vaulted reservoirs. An early example of using vaulted architecture for water storage."
+  },
+  {
+    "id": "yerebatan-cistern",
+    "name": "Basilica Cistern (Yerebatan Saray)",
+    "type": "point",
+    "category": "aqueduct",
+    "date": 532,
+    "dateDisplay": "532 CE (Justinian)",
+    "lat": 41.0084,
+    "lng": 28.9779,
+    "location": "Istanbul, Turkey",
+    "significance": "Massive covered Byzantine cistern supported by 336 columns. One of the largest ancient underground water storage structures.",
+    "image": "images/yerebatan-cistern.png",
+    "imageAttribution": "Moise Nicu / CC BY 3.0"
+  },
+  {
+    "id": "iol-caesarea-aqueduct",
+    "name": "Aqueduct at Iol Caesarea",
+    "type": "point",
+    "category": "aqueduct",
+    "date": -25,
+    "dateDisplay": "Reign of Juba II",
+    "lat": 36.6024,
+    "lng": 2.1834,
+    "location": "Cherchel, Algeria",
+    "significance": "Roman aqueduct in North Africa built during the reign of Juba II, demonstrating Roman hydraulic influence beyond Italy."
+  },
+  {
+    "id": "baths-of-trajan",
+    "name": "Baths of Trajan",
+    "type": "point",
+    "category": "bath",
+    "date": 109,
+    "dateDisplay": "Early 2nd c. CE",
+    "lat": 41.893,
+    "lng": 12.4962,
+    "location": "Rome, Italy",
+    "significance": "Built over the buried Domus Aurea. Established the axial-symmetric plan copied by later imperial bath complexes."
+  },
+  {
+    "id": "baths-of-agrippa",
+    "name": "Baths of Agrippa",
+    "type": "point",
+    "category": "bath",
+    "date": -33,
+    "dateDisplay": "33 BCE",
+    "lat": 41.898,
+    "lng": 12.476,
+    "location": "Rome, Italy",
+    "significance": "Rome's first purpose-built public bath complex, constructed by Marcus Agrippa in 33 BCE. Introduced large-scale public bathing culture to the city and set a precedent for the massive imperial bath complexes of later centuries."
+  },
+  {
+    "id": "harbor-baths-ephesus",
+    "name": "Harbor Baths at Ephesus",
+    "type": "point",
+    "category": "bath",
+    "date": 150,
+    "dateDisplay": "2nd c. CE",
+    "lat": 37.94,
+    "lng": 27.34,
+    "location": "Ephesus, Turkey",
+    "significance": "Known for large-scale radial brick barrel vaulting. Demonstrates provincial Roman construction techniques."
+  },
+  {
+    "id": "bath-gymnasium-sardis",
+    "name": "Bath-Gymnasium at Sardis",
+    "type": "point",
+    "category": "bath",
+    "date": 150,
+    "dateDisplay": "2nd c. CE",
+    "lat": 38.4865,
+    "lng": 28.04,
+    "location": "Sardis, Turkey",
+    "significance": "Massive bath-gymnasium complex at the ancient Lydian capital of Sardis. Known for large-scale radial brick barrel vaulting, demonstrating how Roman bathing culture and construction techniques spread to the cities of the Greek East."
+  },
+  {
+    "id": "palace-pylos",
+    "name": "Palace at Pylos (Bath Room 43)",
+    "type": "point",
+    "category": "bath",
+    "date": -1300,
+    "dateDisplay": "Bronze Age",
+    "lat": 36.9633,
+    "lng": 21.6944,
+    "location": "Pylos, Greece",
+    "significance": "Mycenaean palace featuring an early limestone bath basin. One of the earliest known dedicated bathing facilities."
+  },
+  {
+    "id": "hagia-sophia",
+    "name": "Hagia Sophia",
+    "type": "point",
+    "category": "temple",
+    "date": 532,
+    "dateDisplay": "6th c. CE (Justinian)",
+    "lat": 41.0086,
+    "lng": 28.9802,
+    "location": "Constantinople (Istanbul), Turkey",
+    "significance": "Monumental vaulted church with a massive dome. Culmination of Roman concrete and vaulting technology in the Byzantine period.",
+    "image": "images/hagia-sophia.png",
+    "imageAttribution": "Arild Vagen / CC BY-SA 3.0"
+  },
+  {
+    "id": "temple-poseidon-isthmia",
+    "name": "Temple of Poseidon at Isthmia",
+    "type": "point",
+    "category": "temple",
+    "date": -640,
+    "dateDisplay": "ca. 640 BCE",
+    "lat": 37.915,
+    "lng": 22.9983,
+    "location": "Isthmia, Greece",
+    "significance": "One of the earliest Greek stone temples. An important early example of monumental stone architecture."
+  },
+  {
+    "id": "temple-zeus-nemea",
+    "name": "Temple of Zeus at Nemea",
+    "type": "point",
+    "category": "temple",
+    "date": -340,
+    "dateDisplay": "ca. 340 BCE",
+    "lat": 37.8089,
+    "lng": 22.7153,
+    "location": "Nemea, Greece",
+    "significance": "Temple featuring a barrel-vaulted entranceway to the adjacent stadium. Early vault construction in Greek architecture."
+  },
+  {
+    "id": "mausoleum-halicarnassus",
+    "name": "Mausoleum at Halicarnassus",
+    "type": "point",
+    "category": "temple",
+    "date": -350,
+    "dateDisplay": "4th c. BCE",
+    "lat": 37.0379,
+    "lng": 27.4241,
+    "location": "Halicarnassus (Bodrum), Turkey",
+    "significance": "One of the Seven Wonders of the Ancient World, built in the 4th century BCE at Halicarnassus (modern Bodrum). Constructed with Proconnesian marble, its fame gave us the English word 'mausoleum' for any grand tomb.",
+    "image": "images/mausoleum-halicarnassus.png",
+    "imageAttribution": "Rijksmuseum / CC0"
+  },
+  {
+    "id": "thersileon-megalopolis",
+    "name": "Thersileon at Megalopolis",
+    "type": "point",
+    "category": "public",
+    "date": -370,
+    "dateDisplay": "ca. 370 BCE",
+    "lat": 37.4017,
+    "lng": 22.1367,
+    "location": "Megalopolis, Greece",
+    "significance": "Massive indoor assembly hall for the Arcadian League. One of the largest covered interior spaces in the Greek world."
+  },
+  {
+    "id": "trajans-forum",
+    "name": "Trajan's Forum and Basilica Ulpia",
+    "type": "point",
+    "category": "public",
+    "date": 112,
+    "dateDisplay": "106-112 CE",
+    "lat": 41.8955,
+    "lng": 12.4843,
+    "location": "Rome, Italy",
+    "significance": "Monumental civic complex designed by Apollodorus of Damascus. The Basilica Ulpia was the largest basilica in Rome."
+  },
+  {
+    "id": "motya-kothon",
+    "name": "Motya Basin (Kothon)",
+    "type": "point",
+    "category": "harbor",
+    "date": -550,
+    "dateDisplay": "6th c. BCE",
+    "lat": 37.8667,
+    "lng": 12.4667,
+    "location": "Motya, Sicily",
+    "significance": "An early Phoenician excavated harbor basin (kothon). One of the earliest artificial harbors in the western Mediterranean."
+  },
+  {
+    "id": "lechaeum-harbor",
+    "name": "Lechaeum Harbor",
+    "type": "point",
+    "category": "harbor",
+    "date": -600,
+    "dateDisplay": "ca. 627-587 BCE",
+    "lat": 37.92,
+    "lng": 22.875,
+    "location": "Corinth, Greece",
+    "significance": "Inner harbor basin (cothon) at Corinth, attributed to the tyrant Periander (ca. 627-587 BCE). Built with hydraulic concrete below sea level and concrete with ashlar revetment above. Permanently destroyed in the 3rd century CE by a massive seismic uplift of approximately 4 meters (Blackman, in Oleson 2009).",
+    "dateDestroyed": 250,
+    "destroyedNote": "Destroyed by massive seismic uplift of ~4m in the 3rd c. CE"
+  },
+  {
+    "id": "delos-quay",
+    "name": "Delos Quay and Breakwater",
+    "type": "point",
+    "category": "harbor",
+    "date": -750,
+    "dateDisplay": "Late 8th c. BCE",
+    "lat": 37.396,
+    "lng": 25.268,
+    "location": "Delos, Greece",
+    "significance": "One of the earliest large-scale harborworks in the Aegean, serving the sacred island of Delos. The island achieved an unusual 1,700 meters of quay space on a natural shoreline of only 1,100 meters through projections and indentations (Blackman, in Oleson 2009)."
+  },
+  {
+    "id": "harbor-paphos",
+    "name": "Harbor at Paphos",
+    "type": "point",
+    "category": "harbor",
+    "date": -300,
+    "dateDisplay": "Hellenistic/Roman",
+    "lat": 34.7537,
+    "lng": 32.4079,
+    "location": "Paphos, Cyprus",
+    "significance": "Harbor with de-silting channels and outer breakwaters. Suffered serious earthquake damage in 15 BCE."
+  },
+  {
+    "id": "lighthouse-corunna",
+    "name": "Tower of Hercules (Lighthouse)",
+    "type": "point",
+    "category": "harbor",
+    "date": 100,
+    "dateDisplay": "Roman",
+    "lat": 43.3857,
+    "lng": -8.4066,
+    "location": "A Coruna, Spain",
+    "significance": "Roman hilltop lighthouse, still functioning today. The oldest known working lighthouse in the world.",
+    "image": "images/lighthouse-corunna.png",
+    "imageAttribution": "Fernando Losada Rodriguez / CC BY-SA 4.0"
+  },
+  {
+    "id": "harbor-aquileia",
+    "name": "River Harbor of Aquileia",
+    "type": "point",
+    "category": "harbor",
+    "date": -181,
+    "dateDisplay": "Roman Republic",
+    "lat": 45.7694,
+    "lng": 13.37,
+    "location": "Aquileia, Italy",
+    "significance": "Roman river harbor with stone mooring bollards. Major commercial gateway to the northeastern frontier."
+  },
+  {
+    "id": "port-london",
+    "name": "Port of London",
+    "type": "point",
+    "category": "harbor",
+    "date": 50,
+    "dateDisplay": "Roman",
+    "lat": 51.5074,
+    "lng": -0.08,
+    "location": "London, UK",
+    "significance": "Roman timber river port on the Thames. Roman engineering adapted for riverine environments at the edge of the empire."
+  },
+  {
+    "id": "kyrenia-ship",
+    "name": "Kyrenia Ship",
+    "type": "point",
+    "category": "harbor",
+    "date": -350,
+    "dateDisplay": "4th c. BCE",
+    "lat": 35.3413,
+    "lng": 33.3172,
+    "location": "Kyrenia, Cyprus",
+    "significance": "Remarkably preserved Greek merchant vessel recovered from the seabed. Extraordinary evidence of ancient shipbuilding and Mediterranean trade."
+  },
+  {
+    "id": "mahdia-shipwreck",
+    "name": "Mahdia Shipwreck",
+    "type": "point",
+    "category": "harbor",
+    "date": -80,
+    "dateDisplay": "1st c. BCE",
+    "lat": 35.5069,
+    "lng": 11.049,
+    "location": "Mahdia, Tunisia",
+    "significance": "Merchant ship carrying Greek art, columns, and bronze statues. Reveals the scale of art transport across the Mediterranean."
+  },
+  {
+    "id": "tiryns-walls",
+    "name": "Tiryns Fortifications",
+    "type": "point",
+    "category": "fortification",
+    "date": -1400,
+    "dateDisplay": "Bronze Age",
+    "lat": 37.5994,
+    "lng": 22.7997,
+    "location": "Tiryns, Greece",
+    "significance": "Citadel with massive cyclopean masonry walls. Later Greeks believed these were built by the mythical Cyclopes."
+  },
+  {
+    "id": "nolan-gate-pompeii",
+    "name": "Nolan Gate at Pompeii",
+    "type": "point",
+    "category": "fortification",
+    "date": -150,
+    "dateDisplay": "2nd c. BCE",
+    "lat": 40.7536,
+    "lng": 14.496,
+    "location": "Pompeii, Italy",
+    "significance": "City gate built of stone and opus incertum concrete. Integration of concrete with traditional stone fortification."
+  },
+  {
+    "id": "fortress-eleutherai",
+    "name": "Fortress of Eleutherai",
+    "type": "point",
+    "category": "fortification",
+    "date": -340,
+    "dateDisplay": "Late 4th c. BCE",
+    "lat": 38.1833,
+    "lng": 23.3333,
+    "location": "Attica/Boeotia border, Greece",
+    "significance": "Fortified stronghold guarding a mountain pass. Features well-preserved ashlar masonry walls and towers."
+  },
+  {
+    "id": "doura-europos",
+    "name": "Doura-Europos Fortifications",
+    "type": "point",
+    "category": "fortification",
+    "date": -300,
+    "dateDisplay": "Hellenistic",
+    "lat": 34.7489,
+    "lng": 40.7253,
+    "location": "Doura-Europos, Syria",
+    "significance": "Fortified city linked to Macedonian influence under Seleukos I. Grid plan with massive defensive walls."
+  },
+  {
+    "id": "mons-claudianus",
+    "name": "Mons Claudianus Quarries",
+    "type": "point",
+    "category": "public",
+    "date": 50,
+    "dateDisplay": "Roman Imperial",
+    "lat": 26.8,
+    "lng": 33.27,
+    "location": "Eastern Desert, Egypt",
+    "significance": "Imperial stone quarries staffed by ~1,000 workers. Supplied grey granite for the Pantheon's columns."
+  },
+  {
+    "id": "aliki-quarry",
+    "name": "Aliki Marble Quarry",
+    "type": "point",
+    "category": "public",
+    "date": -500,
+    "dateDisplay": "Greek/Roman",
+    "lat": 40.5833,
+    "lng": 24.75,
+    "location": "Thasos, Greece",
+    "significance": "Ancient coastal marble extraction site, now partially submerged. Evidence of Greek quarrying techniques."
+  },
+  {
+    "id": "battle-plataea",
+    "name": "Battle of Plataea",
+    "type": "point",
+    "category": "battle",
+    "date": -479,
+    "dateDisplay": "479 BCE",
+    "lat": 38.2167,
+    "lng": 23.2667,
+    "location": "Plataea, Greece",
+    "significance": "Major land battle where Greek hoplite phalanx repulsed the Persian army, ending the second Persian invasion of Greece."
+  },
+  {
+    "id": "sicilian-expedition",
+    "name": "Sicilian Expedition (Siege of Syracuse)",
+    "type": "point",
+    "category": "battle",
+    "date": -415,
+    "dateDisplay": "415-413 BCE",
+    "lat": 37.06,
+    "lng": 15.3,
+    "location": "Syracuse, Sicily",
+    "significance": "Athens attempted to capture Syracuse using a blockade and rapid circuit wall. Syracuse built a counter-wall and the siege failed spectacularly."
+  },
+  {
+    "id": "battle-salamis-cyprus",
+    "name": "Battle of Salamis in Cyprus",
+    "type": "point",
+    "category": "battle",
+    "date": -306,
+    "dateDisplay": "306 BCE",
+    "lat": 35.1856,
+    "lng": 33.9006,
+    "location": "Salamis, Cyprus",
+    "significance": "Earliest attested use of ship-borne torsion artillery. Demetrius Poliorcetes mounted catapults on ship prows."
+  },
+  {
+    "id": "siege-avaricum",
+    "name": "Siege of Avaricum",
+    "type": "point",
+    "category": "battle",
+    "date": -52,
+    "dateDisplay": "52 BCE",
+    "lat": 47.0833,
+    "lng": 2.4,
+    "location": "Avaricum (Bourges), Gaul",
+    "significance": "Caesar constructed a massive earth-and-timber agger reaching 80 feet high, with siege towers and scorpio catapults."
+  },
+  {
+    "id": "battle-gergovia",
+    "name": "Battle of Gergovia",
+    "type": "point",
+    "category": "battle",
+    "date": -52,
+    "dateDisplay": "52 BCE",
+    "lat": 45.7167,
+    "lng": 3.1167,
+    "location": "Gergovia, Gaul",
+    "significance": "A rare Roman defeat during the Gallic Wars. Showed limits of Roman engineering against well-defended hilltop positions."
+  },
+  {
+    "id": "siege-cremna",
+    "name": "Siege of Cremna",
+    "type": "point",
+    "category": "battle",
+    "date": 278,
+    "dateDisplay": "Late 3rd c. CE",
+    "lat": 37.5167,
+    "lng": 30.6667,
+    "location": "Cremna (Pisidia), Turkey",
+    "significance": "Romans built containment lines, artillery platforms, and an enormous siege mound to assault the hilltop city."
+  },
+  {
+    "id": "siege-constantinople",
+    "name": "Siege of Constantinople",
+    "type": "point",
+    "category": "battle",
+    "date": 1453,
+    "dateDisplay": "1453 CE",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "location": "Constantinople (Istanbul), Turkey",
+    "significance": "In 1453 CE, the Theodosian walls of Constantinople faced the Ottoman siege. The multi-layered defenses featured a 20-meter-wide moat, an outer wall with towers, and a massive inner wall 5 meters wide and 12 meters high with 96 towers each 20 meters tall. Described as \"the most powerful urban fortifications of antiquity\" (Davies, in Oleson 2009), the city fell not to structural failure but to human error: an open postern gate."
+  },
+  {
+    "id": "theater-ephesus",
+    "name": "Theater at Ephesus",
+    "type": "point",
+    "category": "public",
+    "date": -250,
+    "dateDisplay": "Hellenistic",
+    "lat": 37.9414,
+    "lng": 27.3419,
+    "location": "Ephesus, Turkey",
+    "significance": "Massive theater seating ~25,000 spectators. Features vaulted passageways (vomitoria) for crowd circulation."
+  },
+  {
+    "id": "stadium-olympia",
+    "name": "Stadium at Olympia",
+    "type": "point",
+    "category": "public",
+    "date": -350,
+    "dateDisplay": "Hellenistic",
+    "lat": 37.6385,
+    "lng": 21.63,
+    "location": "Olympia, Greece",
+    "significance": "The original Olympic stadium, featuring a barrel-vaulted entranceway (krypte) through which athletes entered."
+  }
+]

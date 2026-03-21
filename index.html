@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Building an Empire: Roman Infrastructure Across the Mediterranean</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Splash / Landing Page -->
+  <div id="splash" class="splash">
+    <div class="splash-content">
+      <h1 id="splash-title" class="splash-title"></h1>
+      <p id="splash-subtitle" class="splash-subtitle"></p>
+      <div class="splash-divider"></div>
+
+      <!-- Curatorial Statement -->
+      <div class="splash-curatorial">
+        <h3>Curatorial Statement</h3>
+        <div id="curatorial-text"></div>
+      </div>
+
+      <div class="splash-divider"></div>
+
+      <!-- Individual Contributions -->
+      <div class="splash-contributions">
+        <h3>Individual Contributions</h3>
+        <div id="contributions-text"></div>
+      </div>
+
+      <div class="splash-divider"></div>
+
+      <!-- Bibliography -->
+      <div class="splash-bib">
+        <h3>Bibliography</h3>
+        <ol id="bibliography-list" class="bib-list"></ol>
+      </div>
+
+      <p id="splash-authors" class="splash-authors"></p>
+      <p id="splash-course" class="splash-course"></p>
+      <button id="splash-enter" class="splash-enter">Explore the Map</button>
+    </div>
+  </div>
+
+  <!-- How to Use Modal -->
+  <div id="howto-modal" class="modal hidden">
+    <div class="modal-content">
+      <h2>How to Use This Map</h2>
+      <div id="howto-grid" class="howto-grid"></div>
+      <button id="howto-close" class="splash-enter">Got It</button>
+    </div>
+  </div>
+
+  <!-- App (hidden until splash dismissed) -->
+  <div id="app" class="app hidden">
+    <!-- Collapsible Left Sidebar (detail panel) -->
+    <aside id="sidebar" class="sidebar">
+      <button id="sidebar-close" class="sidebar-close" aria-label="Close sidebar">&times;</button>
+      <div id="sidebar-content" class="sidebar-content">
+        <p class="sidebar-placeholder">Click a monument to see details.</p>
+      </div>
+    </aside>
+    <button id="sidebar-toggle" class="sidebar-toggle" aria-label="Open detail panel">&#9776;</button>
+
+    <!-- Monument List Panel (right side) -->
+    <div id="list-panel" class="list-panel">
+      <div class="list-header">
+        <h3>Monuments</h3>
+        <button id="list-close" class="list-close" aria-label="Close list">&times;</button>
+      </div>
+      <div class="list-controls">
+        <input type="text" id="list-search" class="list-search" placeholder="Search..." aria-label="Search monuments" />
+        <div class="list-sort">
+          <button class="list-sort-btn active" data-sort="date">Date</button>
+          <button class="list-sort-btn" data-sort="name">Name</button>
+          <button class="list-sort-btn" data-sort="type">Type</button>
+          <button class="list-sort-btn" data-sort="image">Has Image</button>
+        </div>
+      </div>
+      <div id="list-items" class="list-items"></div>
+    </div>
+    <button id="list-toggle" class="list-toggle" aria-label="Open monument list">List</button>
+
+    <!-- Info button to reopen How to Use -->
+    <button id="info-btn" class="info-btn" aria-label="How to use">?</button>
+    <!-- Back to splash -->
+    <button id="back-btn" class="back-btn" aria-label="Back to home">Home</button>
+
+    <!-- Map Container -->
+    <div id="map"></div>
+
+    <!-- Bottom Timeline Bar -->
+    <div id="timeline">
+      <div class="timeline-inner">
+        <span class="timeline-label-start">1400 BCE</span>
+        <div class="timeline-slider-wrap">
+          <input
+            type="range"
+            id="year-slider"
+            min="-1400"
+            max="1460"
+            value="-1400"
+            step="10"
+            aria-label="Timeline year"
+            aria-valuetext="1400 BCE"
+          />
+          <div class="year-row">
+            <span id="monument-count" class="monument-count">0 of 0</span>
+            <span id="year-display" class="year-display">1400 BCE</span>
+          </div>
+        </div>
+        <span class="timeline-label-end">1460 CE</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Lightbox -->
+  <div id="lightbox" class="lightbox hidden">
+    <button class="lightbox-close" aria-label="Close">&times;</button>
+    <img id="lightbox-img" src="" alt="">
+    <div class="lightbox-info">
+      <p id="lightbox-caption"></p>
+      <p id="lightbox-attr"></p>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

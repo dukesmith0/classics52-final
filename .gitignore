@@ -1,0 +1,26 @@
+# Project files not for deployment
+.vibe/
+.resources/
+debug/
+text-for-review.txt
+add_monuments.py
+update_descriptions.py
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node (if ever added)
+node_modules/
